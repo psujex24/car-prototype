@@ -12,6 +12,6 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         // Tank make brum brum
-        transform.Translate(0, 0, 1);
+        transform.Translate(Vector3.forward * Time.deltaTime * 20);
     }
 }

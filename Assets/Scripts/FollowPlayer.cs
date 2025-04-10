@@ -14,6 +14,7 @@ public class FollowPlayer : MonoBehaviour
     // Update is called once per frame
     void LateUpdate()
     {
+        // funkcja odpowiadajaca za sledzenie pojazdu tylko po jednej osii (możliwy rozwoj w przyszłosci)
         transform.position = player.transform.position + offset;
     }
 }

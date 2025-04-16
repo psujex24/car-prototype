@@ -27,7 +27,7 @@ public class SwitchingCamera : MonoBehaviour
 
 
         }
-        else
+        else //problemy z kamera w 3 osobie w pierwszej tez ale to mniej widoczne 
         {
             transform.position = player.transform.position + thridPersonView;
             transform.rotation = player.transform.rotation;

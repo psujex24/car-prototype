@@ -1,4 +1,4 @@
-# WOT ale Unbogie 🎮🛠️
+# czołgi (projekt kursu unity) 🎮🛠️
 
 Prosty, ale satysfakcjonujący projekt lokalnego multiplayera 3D w Unity. Wcielasz się w jednego z dwóch graczy i sterujesz czołgiem, który musi przejechać przez krótki tor z przeszkodami. Ale nie jesteś sam — po drodze poruszają się też inne pojazdy z własną logiką jazdy!
 
